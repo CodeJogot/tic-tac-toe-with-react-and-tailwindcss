@@ -6,4 +6,6 @@
 
 ![Tic-Tac-Toe](./src/assets/images/tic.png)
 
-[Click Here to View The Game Live]()
+<a href="https://tic-tac-toe-with-react-and-tailwind.vercel.app/" target="_blank" style="font-size:24px; font-weight:bold;">
+  Click Here to View The Game Live
+</a>
