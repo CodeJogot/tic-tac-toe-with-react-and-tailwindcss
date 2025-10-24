@@ -13,6 +13,20 @@
 ## 📚 Steps
 
 1. [Project Setup](#1-project-setup)
+2. [Building The Board Component](#2-building-the-board-component)
+3. [Creating The Square Component](#3-creating-the-square-component)
+4. [Making The Component Interactive](#4-making-the-component-interactive)
+5. [React Developer Tools](#5-react-developer-tools)
+6. [Lifting State Up](#6-lifting-state-up)
+7. [Why immutability is important](#7-why-immutability-is-important)
+8. [Taking turns](#8-taking-turns)
+9. [Declaring A Winner](#9-declaring-a-winner)
+10. [Storing a history of moves](#10-storing-a-history-of-moves)
+11. [Lifting state up, again](#11-lifting-state-up-again)
+12. [Showing The Past Moves](#12-showing-the-past-moves)
+13. [Implementing The Time Travel](#13-implementing-the-time-travel)
+14. [Final Cleanup](#14-final-cleanup)
+15. [Wrapping up](#15-wrapping-up)
 
 ## 1. Project Setup
 
